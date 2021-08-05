@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa2a28e0-ba64-4f17-80ea-a949b1856519" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/index.html" />
+    </disable_hints>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/assets/js/script.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/assets/css/custom.css" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="300" />
+    </hideBySeverity>
+  </component>
+  <component name="ProjectId" id="1uQcLUhcTvID6sHFsyJiSLvFhhs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa2a28e0-ba64-4f17-80ea-a949b1856519" name="Default Changelist" comment="" />
+      <created>1624601203636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624601203636</updated>
+      <workItem from="1624601206619" duration="688000" />
+      <workItem from="1624601911920" duration="7000" />
+      <workItem from="1624601943894" duration="15000" />
+      <workItem from="1624601998234" duration="77000" />
+      <workItem from="1624602166351" duration="944000" />
+      <workItem from="1624633880560" duration="5020000" />
+      <workItem from="1624641498014" duration="5320000" />
+      <workItem from="1624719829946" duration="1090000" />
+      <workItem from="1624729305390" duration="2638000" />
+      <workItem from="1624812200918" duration="458000" />
+      <workItem from="1624859748040" duration="5074000" />
+      <workItem from="1624881011163" duration="1629000" />
+      <workItem from="1624884287975" duration="307000" />
+      <workItem from="1624886475712" duration="3914000" />
+      <workItem from="1624897570037" duration="9395000" />
+      <workItem from="1624947833973" duration="2118000" />
+      <workItem from="1624951147549" duration="686000" />
+      <workItem from="1624954910658" duration="2322000" />
+      <workItem from="1624969308131" duration="2361000" />
+      <workItem from="1625114340195" duration="436000" />
+      <workItem from="1625118210510" duration="1784000" />
+      <workItem from="1625588561217" duration="1327000" />
+      <workItem from="1625627752341" duration="8736000" />
+      <workItem from="1625666880223" duration="1336000" />
+      <workItem from="1625671185233" duration="1038000" />
+      <workItem from="1625763975638" duration="1266000" />
+      <workItem from="1625807999978" duration="2779000" />
+      <workItem from="1625828145695" duration="13011000" />
+      <workItem from="1625847912186" duration="3649000" />
+      <workItem from="1625852160787" duration="47000" />
+      <workItem from="1625855035067" duration="48000" />
+      <workItem from="1625934758979" duration="666000" />
+      <workItem from="1627486451144" duration="1437000" />
+      <workItem from="1627537733074" duration="14000" />
+      <workItem from="1627553825737" duration="1021000" />
+      <workItem from="1627614740796" duration="372000" />
+      <workItem from="1627627096839" duration="23000" />
+      <workItem from="1627654658465" duration="7161000" />
+      <workItem from="1627721265633" duration="4621000" />
+      <workItem from="1627747463522" duration="698000" />
+      <workItem from="1627789268703" duration="2801000" />
+      <workItem from="1627815109907" duration="2676000" />
+      <workItem from="1627829873067" duration="974000" />
+      <workItem from="1627832022112" duration="3675000" />
+      <workItem from="1627871653382" duration="6165000" />
+      <workItem from="1627895021378" duration="414000" />
+      <workItem from="1627967168506" duration="5422000" />
+      <workItem from="1628003552826" duration="2061000" />
+      <workItem from="1628007219429" duration="3828000" />
+      <workItem from="1628048902909" duration="3113000" />
+      <workItem from="1628127981838" duration="156000" />
+      <workItem from="1628128321895" duration="732000" />
+      <workItem from="1628132579020" duration="15134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
